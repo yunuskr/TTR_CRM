@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+<h2>Giriş Yap</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div style="color:red;">
+        @ViewBag.Error
+    </div>
+}
+
+<form method="post" asp-action="Index" asp-controller="Login">
+    <div>
+        <label>Kullanıcı Adı:</label><br />
+        <input type="text" name="username" />
+    </div>
+    <div>
+        <label>Şifre:</label><br />
+        <input type="password" name="password" />
+    </div>
+    <button type="submit">Giriş</button>
+</form>

@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Welcome";
+}
+<h2>Hoş Geldiniz</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div style="color:green;">
+        @TempData["Message"]
+    </div>
+}
+<p>Giriş yaptıktan sonra görünecek örnek sayfa.</p>
