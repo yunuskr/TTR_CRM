@@ -9,20 +9,22 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TTR_CRM
 build_property.RootNamespace = TTR_CRM
-build_property.ProjectDir = C:\Users\yunusemre.kara\Downloads\cozastore-master\TTR_CRM\
+build_property.ProjectDir = D:\GitHub\TTR_CRM\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\yunusemre.kara\Downloads\cozastore-master\TTR_CRM
+build_property.MSBuildProjectDirectory = D:\GitHub\TTR_CRM
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/yunusemre.kara/Downloads/cozastore-master/TTR_CRM/Views/Login/Index.cshtml]
+[D:/GitHub/TTR_CRM/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunusemre.kara/Downloads/cozastore-master/TTR_CRM/Views/Login/Welcome.cshtml]
+[D:/GitHub/TTR_CRM/Views/Login/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cV2VsY29tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 

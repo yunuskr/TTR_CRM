@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "wgsnRCHnRgJC6TYhl4mG59as+JB9V32TtHXu9kgvXmE=",
+  "Hash": "2rxfp3X4a7i6HcjMSHdGj3sMYSNbFXOooegiPQaE8ig=",
   "Source": "TTR_CRM",
   "BasePath": "_content/TTR_CRM",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
